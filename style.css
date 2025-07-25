@@ -13,3 +13,30 @@ body{
     color: black;
     text-align: center;
 }
+
+.burger{
+    font-size: 25px;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
+
+.lasagna{
+    font-size: 25px;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
+
+.taco{
+    font-size: 25px;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
