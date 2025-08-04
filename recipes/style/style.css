@@ -1,0 +1,28 @@
+body{
+    background-color: tan;
+}
+
+.title{
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.info{
+    padding-bottom: 20px;
+    border-bottom: 1.5px black solid;
+}
+
+h4{
+    margin-left: 100px;
+}
+
+li{
+    margin-left: 100px;
+}
+
+a{
+    float: inline-end;
+    font-size: x-large;
+    color: blue;
+}
